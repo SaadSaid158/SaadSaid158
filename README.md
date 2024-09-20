@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SaadSaid158) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/35768079) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SaadSaid158) 
+<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Saad.Said158.png" alt="TryHackMe">
 
 # 💻 Tech Stack:
