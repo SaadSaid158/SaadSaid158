@@ -1,5 +1,5 @@
 # 💫 About Me:<br>
-- 🔭 I’m currently working on [a C2 framework for advanced red teaming](https://github.com/SaadSaid158/C2)<br><br>- 🌱 I’m currently learning **offensive penetration testing skills on TryHackMe**<br><br>- 👯 I’m looking to collaborate on [my C2 Framework](https://github.com/SaadSaid158/C2)<br><br>- 🤝 I’m looking for help with [my C2 Framework](https://github.com/SaadSaid158/C2)<br><br>- 💬 Ask me about **Linux, penetration testing and programming**<br><br>- 📫 How to reach me **saad.dev158@gmail.com**<br><br>- ⚡ Fun fact **I think I am funny (not really)**
+- 🔭 I’m currently working on [a C2 framework for advanced red teaming](https://github.com/SaadSaid158/C2)<br><br>- 🌱 I’m currently learning **offensive penetration testing skills on TryHackMe**<br><br>- 👯 I’m looking to collaborate on [my C2 Framework](https://github.com/SaadSaid158/C2)<br><br>- 🤝 I’m looking for help with [my C2 Framework](https://github.com/SaadSaid158/C2)<br><br>- 💬 Ask me about **Linux, penetration testing and programming**<br><br>- 📫 How to reach me **saad.dev158@gmail.com**<br><br>- ⚡ Fun fact **The first “bug” in programming was an actual moth found in a computer in 1947!**
 
 
 ## 🌐 Socials:
