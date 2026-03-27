@@ -38,8 +38,8 @@ My work focuses on building tools and proof-of-concepts that interact with **rea
 
 ## Currently
 
-* Developing a custom **Command & Control (C2) framework**
-* Advancing practical offensive security skills through labs and real-world scenarios
+* Studying my A-levels and advancing my academic education
+* Working on practical offensive security skills through labs and real-world scenarios
 
 ---
 
